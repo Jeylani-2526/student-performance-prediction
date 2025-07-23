@@ -3,10 +3,10 @@ import pandas as pd
 import joblib
 
 # Load models and scalers
-svm = joblib.load("models\svm_classifier.joblib")
-lr_reg = joblib.load("\models\linear_regression.joblib")
-scaler_cls = joblib.load("models\scaler_cls.joblib")
-scaler_reg = joblib.load("models\scaler_reg.joblib")
+svm = joblib.load("models/svm_classifier.joblib")
+lr_reg = joblib.load("models/linear_regression.joblib")
+scaler_cls = joblib.load("models/scaler_cls.joblib")
+scaler_reg = joblib.load("models/scaler_reg.joblib")
 
 # The exact order and feature names you used for training
 important_features = [
