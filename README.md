@@ -87,7 +87,7 @@ Using data-driven analysis, feature engineering, model training, and real-world 
 
 ## 🙋 About Me
 
-I’m **\[Abdalla Jeylani]**, aspiring Junior Data Scientist with a passion for using data to improve educational outcomes. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/abdullahi-jeylani-1a7b83278/) or email me at [abdallamuhammed07@gmai.com](abdallamuhammed07@gmail.com).
+I’m **Abdalla Jeylani**, aspiring Junior Data Scientist with a passion for using data to improve educational outcomes. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/abdullahi-jeylani-1a7b83278/) or email me at [abdallamuhammed07@gmai.com](abdallamuhammed07@gmail.com).
 
 ---
 
